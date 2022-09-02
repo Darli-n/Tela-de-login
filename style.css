@@ -2,8 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    color: lightseagreen;
-    
+    color: lightseagreen;   
 }
 
 .container {
@@ -17,9 +16,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     background-color: white;
-
-
-
 }
 
 nav {
@@ -30,13 +26,14 @@ nav {
     font-family: Arial, Helvetica, sans-serif;
     background-color:lightseagreen;
 }
+
 nav a {
     color:white;
     margin: auto 20px auto 40px;
     text-decoration: none;
     font-weight: bold;
-
 }
+
 nav li {
     float: left;
     list-style: none;
@@ -44,7 +41,7 @@ nav li {
     color:white;
 }
 
-button{
+button {
     background-color: lightseagreen;
     border: 0ch;
     padding: 10px;
@@ -65,6 +62,7 @@ input {
     font-size: 15px;
     width: 300px;
 }
+
 .img2 {
     float: right;
     width: 50%;
@@ -72,35 +70,24 @@ input {
     width: 600px;
     height: 600px;
     position: relative;
-z-index: -1;
-
+    z-index: -1;
 }
-.rodape-prin
-{
+
+.rodape-prin {
     background-color:white;       
     clear: both;
     padding: 18px;         
     color: lightseagreen;
     font-size: 15px;
     font-family: "arial", sans-serif;
- 
 }
 
-.icones-sociais li
-{
-    display: inline-block;
-    float: none;
-    width: 30px;
-    height: 30px;
-
-}
 footer {
     line-height: 5px;
     height: 5px;
     background: lightgray;
     padding: 5px;
     z-index: 1;
-
 }
 
 
